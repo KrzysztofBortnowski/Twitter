@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Prosta aplikacja do wyświetlania postów z https://jsonplaceholder.typicode.com/posts
 ## Available Scripts
 
 In the project directory, you can run:
